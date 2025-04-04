@@ -1,5 +1,5 @@
 # quad-tree-visualisation
-Small program visualising quad trees using raylib.
+Small C project visualising quad trees using Raylib.
 
 ## Prerequisites
 Raylib installation is needed. Below are examples for Ubuntu Linux with `apt` and MacOS with `brew` (those two are also commented out in build scripts, so you can just uncomment them before first build script run).
@@ -14,7 +14,7 @@ sudo apt install libraylib5-dev -y
 
 ### MacOS
 
-Install raylib on MacOS with brew
+Install Raylib on MacOS with brew
 ```sh
 brew install raylib
 ```
@@ -25,7 +25,7 @@ Run build script `build.sh` (Linux) or `build.osx.sh` (MacOS).
 
 ## Run
 
-Build scripts put executables into `build` directory. To run from root directory:
+Build scripts put executables into `build` directory. To run from project root:
 ```sh
 build/quadtree
 ```
