@@ -14,7 +14,7 @@ sudo apt install libraylib5-dev -y
 
 ### MacOS
 
-Install raylib on macos with brew
+Install raylib on MacOS with brew
 ```sh
 brew install raylib
 ```
